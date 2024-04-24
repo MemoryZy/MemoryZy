@@ -6,4 +6,4 @@
 </span>
 
 
-https://img.shields.io/badge/徽标标题-Jetbrains IDEA-red.svg
+[![](https://img.shields.io/badge/blog-@champyin-red.svg)](https://champyin.com)
