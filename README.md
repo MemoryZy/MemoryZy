@@ -6,4 +6,4 @@
 </span>
 
 
-[![](https://img.shields.io/badge/Blog-@Memory-%23fff.svg)](https://memoryzy.pages.dev/)
+[![](https://img.shields.io/badge/Blog-@Memory-#23fff.svg)](https://memoryzy.pages.dev/)
