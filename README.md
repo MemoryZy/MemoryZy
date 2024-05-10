@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Blog-@Memory-23fff.svg)](https://memoryzy.pages.dev/)
 
 <div align="center">
-  <h2>欢迎来到Memory的主页</h2>
+  <h2>欢迎来到Memory的主页 :wind_chime:</h2>
 </div>
 
 <div align="center">
