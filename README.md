@@ -12,7 +12,7 @@
   [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org/)
   [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/zh/)
 
-  [![Memory's Blog](https://img.shields.io/badge/Blog-@Memory-23fff.svg?style=flat-square)](https://memoryzy.pages.dev/)
+  [![Memory's Blog](https://img.shields.io/badge/Blog-@Memory-0078d7.svg?style=flat-square)](https://memoryzy.pages.dev/)
   &nbsp;&nbsp;
   [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-0db7ed.svg?style=flat-square)](https://github.com/MemoryZy/ZhiYouToolkit)
 
