@@ -14,7 +14,7 @@
 
   [![Memory's Blog](https://img.shields.io/badge/Blog-@Memory-23fff.svg?style=flat-square)](https://memoryzy.pages.dev/)
   &nbsp;&nbsp;
-  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-23fff.svg?style=flat-square)](https://memoryzy.pages.dev/zhiyou/)
+  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-000000.svg?style=flat-square)](https://memoryzy.pages.dev/zhiyou/)
 
 <br/>
   
