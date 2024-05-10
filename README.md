@@ -12,9 +12,9 @@
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-  
-  [![Memory's Blog](https://img.shields.io/badge/Blog-@Memory-23fff.svg?style=for-the-badge)](https://memoryzy.pages.dev/)
-  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-23fff.svg?style=for-the-badge)](https://memoryzy.pages.dev/zhiyou/)
+  [![Memory's Blog](https://img.shields.io/badge/Blog-@Memory-23fff.svg?style=flat-square)](https://memoryzy.pages.dev/)
+  &nbsp;&nbsp;
+  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-23fff.svg?style=flat-square)](https://memoryzy.pages.dev/zhiyou/)
 
 <br/>
   
