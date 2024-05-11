@@ -28,7 +28,7 @@
 
   [![Blogger](https://img.shields.io/badge/Blogger-@Memory-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://memoryzy.pages.dev/)
   &nbsp;&nbsp;
-  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-7d4698?style=for-the-badge&logo=blogger&logoColor=white)](https://plugins.jetbrains.com/plugin/24381-zhiyoutoolkit)
+  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-7d4698?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://plugins.jetbrains.com/plugin/24381-zhiyoutoolkit)
   
 <br/>
   
