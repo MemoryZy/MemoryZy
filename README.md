@@ -30,7 +30,7 @@
   
 <br/>
   
-| <a href="https://github.com/MemoryZy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MemoryZy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MuiseDestiny's Github Stats" /></a> | <a href="https://github.com/MemoryZy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoryZy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/MemoryZy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MemoryZy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Memory's Github Stats" /></a> | <a href="https://github.com/MemoryZy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoryZy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
