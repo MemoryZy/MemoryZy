@@ -23,12 +23,6 @@
   <!-- [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/) -->
 
 <br/>
-
-  [![Blogger](https://img.shields.io/badge/Blogger-@Memory-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://home.memoryzy.cn/)
-  &nbsp;&nbsp;
-  [![ZhiYouToolkit](https://img.shields.io/badge/IDEA%20Plugin-ZhiYouToolkit-7d4698?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://zhiyou.memoryzy.cn/overview.html)
-  
-<br/>
   
 | <a href="https://github.com/MemoryZy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MemoryZy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Memory's Github Stats" /></a> | <a href="https://github.com/MemoryZy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoryZy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
