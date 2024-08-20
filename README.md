@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi! I'm Memory. :high_brightness:</h2>
+  <h2>Hi! Glad you're here! :high_brightness:</h2>
 </div>
 
 
